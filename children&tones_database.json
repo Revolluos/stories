@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Picture Books",
+    "subgenres": [
+      "Board Books",
+      "Concept Books",
+      "Wordless Picture Books",
+      "Early Readers",
+      "Rhyming Stories",
+      "Interactive Books",
+      "Folk & Fairy Tales",
+      "Bedtime Stories",
+      "Nonfiction Picture Books",
+      "Alphabet/Counting"
+    ],
+    "authors": [
+      "Dr. Seuss",
+      "Eric Carle",
+      "Mo Willems",
+      "Beatrix Potter",
+      "Maurice Sendak",
+      "Chris Van Allsburg",
+      "Ezra Jack Keats",
+      "Arnold Lobel",
+      "Leo Lionni",
+      "P.D. Eastman"
+    ],
+    "tones": [
+      "Playful & Whimsical",
+      "Gentle & Reassuring",
+      "Curious & Exploratory",
+      "Empathetic & Affirming",
+      "Silly & Humorous"
+    ]
+  },
+  {
+    "name": "Middle Grade (MG)",
+    "subgenres": [
+      "Contemporary MG",
+      "MG Fantasy",
+      "MG Science Fiction",
+      "Adventure MG",
+      "Historical MG",
+      "Mystery MG",
+      "Graphic Novels MG",
+      "School Stories",
+      "Animal Stories",
+      "Coming-of-Age MG"
+    ],
+    "authors": [
+      "Rick Riordan",
+      "J.K. Rowling",
+      "Roald Dahl",
+      "Kate DiCamillo",
+      "R.J. Palacio",
+      "Jeff Kinney",
+      "Madeleine L'Engle",
+      "Lois Lowry",
+      "E.B. White",
+      "Katherine Applegate"
+    ],
+    "tones": [
+      "Adventurous & Thrilling",
+      "Humorous & Engaging",
+      "Heartfelt & Emotional",
+      "Inquisitive & Mysterious",
+      "Optimistic & Hopeful"
+    ]
+  },
+  {
+    "name": "Young Adult (YA)",
+    "subgenres": [
+      "YA Contemporary",
+      "YA Fantasy",
+      "YA Science Fiction/Dystopian",
+      "YA Mystery/Thriller",
+      "YA Historical Fiction",
+      "YA Romance",
+      "YA Horror",
+      "YA Verse Novels",
+      "YA LGBTQ+",
+      "YA Graphic Novels"
+    ],
+    "authors": [
+      "John Green",
+      "Sarah J. Maas",
+      "Suzanne Collins",
+      "Rainbow Rowell",
+      "Leigh Bardugo",
+      "Nicola Yoon",
+      "Angie Thomas",
+      "Neal Shusterman",
+      "Holly Black",
+      "Veronica Roth"
+    ],
+    "tones": [
+      "Intense & Dramatic",
+      "Witty & Sarcastic",
+      "Romantic & Passionate",
+      "Thought-Provoking & Serious",
+      "Dark & Suspenseful"
+    ]
+  }
+]
