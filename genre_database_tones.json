@@ -385,6 +385,55 @@
     ]
   },
   {
+    "name": "mythology",
+    "subgenres": [
+      "aboriginal",
+      "celtic",
+      "egyptian",
+      "greek",
+      "hindu",
+      "mesoamerican",
+      "norse",
+      "polynesian"
+    ],
+    "authors": [
+      "Bill Harney",
+      "David Mowaljarlai",
+      "Lady Gregory",
+      "Morgan Llywelyn",
+      "Geraldine Pinch",
+      "Wilbur Smith",
+      "Homer",
+      "Euripides",
+      "Vyasa",
+      "Valmiki",
+      "Eduardo Matos Moctezuma",
+      "Gary Jennings",
+      "Snorri Sturluson",
+      "Neil Gaiman",
+      "Teuira Henry",
+      "Witi Ihimaera"
+    ],
+    "tones": [
+      "ancestral",
+      "dreamlike",
+      "mystical",
+      "warrior",
+      "ritualistic",
+      "regal",
+      "epic",
+      "tragic",
+      "transcendent",
+      "devotional",
+      "cyclical",
+      "sacrificial",
+      "grim",
+      "fated",
+      "oceanic",
+      "playful"
+    ]
+  },
+  {
     "name": "Romance",
     "subgenres": [
       "Contemporary Romance",
@@ -484,3 +533,4 @@
     ]
   }
 ]
+
