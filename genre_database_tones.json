@@ -385,16 +385,16 @@
     ]
   },
   {
-    "name": "mythology",
+    "name": "Mythology",
     "subgenres": [
-      "aboriginal",
-      "celtic",
-      "egyptian",
-      "greek",
-      "hindu",
-      "mesoamerican",
-      "norse",
-      "polynesian"
+      "Aboriginal",
+      "Celtic",
+      "Egyptian",
+      "Greek",
+      "Hindu",
+      "Mesoamerican",
+      "Norse",
+      "Polynesian"
     ],
     "authors": [
       "Bill Harney",
@@ -415,22 +415,22 @@
       "Witi Ihimaera"
     ],
     "tones": [
-      "ancestral",
-      "dreamlike",
-      "mystical",
-      "warrior",
-      "ritualistic",
-      "regal",
-      "epic",
-      "tragic",
-      "transcendent",
-      "devotional",
-      "cyclical",
-      "sacrificial",
-      "grim",
-      "fated",
-      "oceanic",
-      "playful"
+      "Ancestral",
+      "Dreamlike",
+      "Mystical",
+      "Warrior",
+      "Ritualistic",
+      "Regal",
+      "Epic",
+      "Tragic",
+      "Transcendent",
+      "Devotional",
+      "Cyclical",
+      "Sacrificial",
+      "Grim",
+      "Fated",
+      "Oceanic",
+      "Playful"
     ]
   },
   {
@@ -533,4 +533,3 @@
     ]
   }
 ]
-
